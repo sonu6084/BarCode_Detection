@@ -6,4 +6,5 @@ Run the file using
 
 It will show the provided image and bounding box on barcode
 
+Reference :- PySearchImage
  
